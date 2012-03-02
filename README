@@ -1,1 +1,14 @@
-TBD
+C Code Prettifier
+-----------------
+
+If you have issues with the coding style consistency, like your project
+deleveloper's using tabs but you're used to use spaces and you don't
+want to have inconsistent code then this utility is what you might find
+useful as the utility itself can do the recoding of the input file to
+use spaces and/or tabs instead. Also, it can analyze the file for
+consistency for using tabs or spaces only.
+
+Hope this helps!
+
+Michal
+(author)
